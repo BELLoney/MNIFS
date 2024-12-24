@@ -31,12 +31,12 @@ feature_seq = [0, 1, 3, 2]
 ## Citation
 If you find MNIFS useful in your research, please consider citing:
 ```
-@article{yang2024fuzzy,
+@article{yang2025fuzzy,
   title={Fuzzy multi-neighborhood entropy-based interactive feature selection for unsupervised outlier detection},
   author={Yang, Siyu and Yuan, Zhong and Luo, Chuan and Chen, Hongmei and Peng, Dezhong},
   journal={Applied Soft Computing},
   pages={112572},
-  year={2024},
+  year={2025},
   publisher={Elsevier}
 }
 ```
